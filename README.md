@@ -1,7 +1,9 @@
 Hi 👋, I'm Sankalp Singh
 
 🌱 Currently learning Data Science
+
 👯 Open to collaborating on Data Science Projects
+
 📫 Reach me at @sankalp25027@gmail.com
 
 <!---

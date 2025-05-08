@@ -1,6 +1,6 @@
 Hi 👋, I'm Sankalp Singh
 
-🌱 Currently learning Data Science
+🌱 Data Science Enthusiast
 
 👯 Open to collaborating on Data Science Projects 
 

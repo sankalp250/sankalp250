@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Sankalp — an AI/ML and Data Science enthusiast who loves exploring the world of intelligent systems and data-driven solutions. I'm passionate about building models, analyzing data, and constantly learning new technologies in machine learning, deep learning, and statistics. I'm currently sharpening my skills through projects, open-source contributions, and online challenges. Always open to collaborate and learn something new!
+Hi! I'm Sankalp — an AI/ML and Data Science engineer who loves exploring the world of intelligent systems and data-driven solutions. I'm passionate about building models, analyzing data, and constantly learning new technologies in machine learning, deep learning, and statistics. I'm currently sharpening my skills through projects, open-source contributions, and online challenges. Always open to collaborate and learn something new!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sankalp_250/?next=%2F) 

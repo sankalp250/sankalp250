@@ -58,6 +58,13 @@ FreeLance,Collaboration, open-source contributions, research-driven projects, an
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000.svg?style=flat&logo=chainlink&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-20232A.svg?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A66C2.svg?style=flat&logo=graph&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-4B0082.svg?style=flat&logo=protocols&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-A020F0.svg?style=flat&logo=robot&logoColor=white)
+
 
 ---
 

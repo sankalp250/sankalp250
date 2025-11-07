@@ -74,7 +74,8 @@ Collaboration, open-source contributions, research-driven projects, and opportun
 ---
 
 # 📈 Contribution & Activity
-![GitHub Contribution Grid](https://github-readme-streak-stats.herokuapp.com/?user=sankalp250&theme=tokyonight)
+![GitHub Contribution Grid](https://github-readme-activity-graph.vercel.app/graph?username=sankalp250&theme=github-compact&hide_border=true)
+
 
 
 

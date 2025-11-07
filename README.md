@@ -20,7 +20,7 @@ I enjoy turning complex problems into elegant solutions, experimenting with cutt
 - Scalable deployment, automation frameworks & MLOps  
 
 ## 🤝 Open To
-Collaboration, open-source contributions, research-driven projects, and opportunities where engineering meets innovation.
+FreeLance,Collaboration, open-source contributions, research-driven projects, and opportunities where engineering meets innovation.
 
 ---
 
@@ -74,7 +74,8 @@ Collaboration, open-source contributions, research-driven projects, and opportun
 ---
 
 # 📈 Contribution & Activity
-![GitHub Contribution Grid](https://github-readme-activity-graph.vercel.app/graph?username=sankalp250&theme=github-compact&hide_border=true)
+![Contribution Grid](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankalp250&theme=github_dark)
+
 
 
 

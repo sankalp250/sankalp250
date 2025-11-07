@@ -73,8 +73,7 @@ FreeLance,Collaboration, open-source contributions, research-driven projects, an
 
 ---
 
-# 📈 Contribution & Activity
-![My GitHub Contributions](https://github-profile-views-counter.com/api/v1/github-profile-3d-contrib/?username=sankalp250&theme=dark)
+
 
 
 

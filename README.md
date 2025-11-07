@@ -73,7 +73,8 @@ Collaboration, open-source contributions, research-driven projects, and opportun
 
 ---
 
-# 📈 Contribution Graph & Activity
-[![Sankalp's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sankalp250&theme=tokyo-night&hide_border=true)](https://github.com/sankalp250)
+# 📈 Contribution & Activity
+![GitHub Contribution Grid](https://github-readme-streak-stats.herokuapp.com/?user=sankalp250&theme=tokyonight)
+
 
 

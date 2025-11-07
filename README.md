@@ -74,7 +74,7 @@ FreeLance,Collaboration, open-source contributions, research-driven projects, an
 ---
 
 # 📈 Contribution & Activity
-![My GitHub Contributions](https://github-contributions.vercel.app/api/v1/sankalp250?theme=dark)
+![My GitHub Contributions](https://github-contributions.vercel.app/api/v1/sankalp250?theme=dark&v=1)
 
 
 

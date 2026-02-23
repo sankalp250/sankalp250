@@ -1,82 +1,101 @@
-# 💫 About Me:
-👋 Hi, I'm Sankalp Singh  
+<div align="center">
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sankalp%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;GenAI+%26+LLM+Explorer+%F0%9F%A7%A0;ML+Pipelines+%26+Model+Deployment+%F0%9F%9A%80;Turning+Data+into+Impact+%F0%9F%93%8A" alt="Typing SVG" />
+</a>
+<br/>
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=sankalp250&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/sankalp250?style=for-the-badge&color=6d28d9&labelColor=1e1b4b&label=FOLLOWERS" />
+</div>
 
-AI/ML & Data Science Engineer | Building Intelligent Systems | GenAI Explorer  
+💫 About Me
+pythonclass SankalpSingh:
+    name       = "Sankalp Singh"
+    role       = "AI/ML & Data Science Engineer"
+    focus      = ["GenAI", "LLMs", "MLOps", "Data Engineering"]
+    building   = "Intelligent systems that make real-world impact"
+    open_to    = ["Freelance", "Collaboration", "Research Projects"]
+    motto      = "Engineering meets Innovation 🚀"
+<br/>
+<table>
+<tr>
+<td width="50%">
+💡 What I Work On
 
-I engineer data-driven and AI-powered solutions with a strong focus on machine learning pipelines, model deployment, and scalable system design. My work blends software engineering with applied ML—ranging from classical algorithms to modern LLMs, transformers, and generative AI workflows.
+🤖 Production-ready ML & DL models
+🔁 End-to-end ML pipelines & automation
+🧠 Generative AI, LLMs & prompt engineering
+📊 Data engineering, analysis & visualization
+🔬 Model evaluation & optimization
 
-I enjoy turning complex problems into elegant solutions, experimenting with cutting-edge research, and building projects that demonstrate real-world impact. My GitHub is where I explore new ideas, contribute to open-source, and continuously upgrade my technical depth.
+</td>
+<td width="50%">
+🎯 Focus Areas
 
-## 💡 What I Work On
-- Production-ready ML & DL models  
-- End-to-end ML pipelines & automation  
-- Generative AI, LLMs & prompt engineering  
-- Data engineering, analysis & visualization  
-- Experimentation, model evaluation & optimization  
+🏗️ LLM architectures & GenAI systems
+⚙️ ML pipelines, optimization & experimentation
+🚢 Scalable deployment & MLOps
+🤝 Context Protocols (MCP) & AI Agents
+🔧 CI/CD automation & cloud infrastructure
 
-## 🎯 Focus Areas
-- LLM architectures, context protocols & GenAI systems  
-- ML pipelines, model optimization & experimentation  
-- Scalable deployment, automation frameworks & MLOps  
+</td>
+</tr>
+</table>
 
-## 🤝 Open To
-FreeLance,Collaboration, open-source contributions, research-driven projects, and opportunities where engineering meets innovation.
+🌐 Socials
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
----
+💻 Tech Stack
+<div align="center">
+Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+AI / ML / Data Science
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+Generative AI & LLMs
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/AutoGen-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+Data & Visualization
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+Backend & APIs
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+Databases
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+Cloud & DevOps
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+Tools & Environment
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-singh-35b827250/)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BunnySi79810067/with_replies)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankalp25027@gmail.com)
+📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalp250&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B949E" width="49%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=sankalp250&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp250&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=10" width="40%" />
+&nbsp;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalp250&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FF6B6B&area=true&hide_border=true" width="58%" />
+</div>
 
----
+🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sankalp250&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&no-bg=true" width="100%" />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=flat&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000.svg?style=flat&logo=chainlink&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-20232A.svg?style=flat&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0A66C2.svg?style=flat&logo=graph&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-4B0082.svg?style=flat&logo=protocols&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-A020F0.svg?style=flat&logo=robot&logoColor=white)
+✍️ Dev Quote of the Day
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%" />
+</div>
 
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sankalp250&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=sankalp250&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp250&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+"Engineering meets Innovation — one commit at a time."
+</div>
